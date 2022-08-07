@@ -1,5 +1,5 @@
 # responsiveWeb
-Mudah membuat website responsif dengan Angular
+Mudah membuat website responsif dengan Ionic dan Angular
 
 Silakan bisa dipakai sebagai template website semau Anda.
 
