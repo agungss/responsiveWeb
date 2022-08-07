@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "responsWeb",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
