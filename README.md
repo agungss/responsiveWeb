@@ -1,10 +1,10 @@
 # responsiveWeb
-Mudah membuat website responsif dengan Ionic dan Angular
+A simple responsive web, using Angular.
 
-Silakan bisa dipakai sebagai template website semau Anda.
+You can use it as a template to build your website.
 
-# Caranya
-Ketik: git clone <url>
-lalu masuk ke foldernya dan ketik: npm install
-Lalu terakhir: ionic serve
-Lalu masuk ke browser: localhost:8100
+# How to use it
+run in terminal: git clone <url of repository>
+go to the folder: npm install
+then run: ionic serve
+listen to localhost:8100
